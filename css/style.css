@@ -90,6 +90,12 @@ a.button-ghost:hover {
 	color: #ffffff;
 }
 
+.color-row {
+	background-image: url('../img/colorline.png');
+	height: 3px;
+	width: 100%;
+}
+
 #features {
 	margin-top: 140px;
 }
